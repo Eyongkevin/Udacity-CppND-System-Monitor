@@ -9,7 +9,7 @@ System Monitor is a Udacity project from the CppND. The starter code can be foun
 
 1. Clone this repository
 ```
-git clone https://github.com/udacity/CppND-System-Monitor
+git clone https://github.com/Eyongkevin/Udacity-CppND-System-Monitor
 ```
 3. Install `ncurses` package
 ```
